@@ -1,8 +1,7 @@
 # Interview-questions-for-freshers(MUST ASKED QUESTIONS)
 
 
-🎯 Objective:
-Hire a fresher DevOps Engineer who understands core DevOps concepts, has hands-on practice with tools, and is eager to learn and grow.
+
 ________________________________________
 📋 Step-by-Step Recruitment Process:
 ________________________________________
